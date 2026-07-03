@@ -1,0 +1,30 @@
+# === Binários e Executáveis de Cada Sistema ===
+# Trabalho A (Playlist)
+trabalhoA/programa_playlist
+
+# Trabalho B (E-mails)
+trabalhoB/programa_emails
+
+# Trabalho C (Filas)
+trabalhoC-filas/sistema_filas
+
+# Extensões genéricas de compilação (frescura nunca é demais)
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# === Bancos de Dados e Persistência ===
+# Ignora especificamente o arquivo CSV do Trabalho C
+trabalhoC-filas/queue_data.csv
+*.csv
+
+# === Arquivos do Sistema Operacional e IDEs ===
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.vscode/
+.idea/
+*.swp
