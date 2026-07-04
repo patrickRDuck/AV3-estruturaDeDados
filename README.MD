@@ -2,6 +2,7 @@
 
 Este repositório contém os projetos práticos desenvolvidos para a disciplina de Estruturas de Dados. Cada trabalho aborda cenários reais de aplicação de conceitos como filas lineares, filas circulares, Listas e Pilhas.
 
+[Link do vídeo](https://youtu.be/xjWUhUwwW24?is=dKy2yXx8izw5Qk0W).
 ---
 
 ## 👥 Integrantes e Identificação
